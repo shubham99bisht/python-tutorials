@@ -30,7 +30,7 @@ __"Modules"__ are pre-written Python code that you "import" in your Python progr
 
 The phrase "wrapper" means that someone has placed, like a wrapper, Python code over another language. So, when you have a Python wrapper around C++ code, what someone has done is written some Python code that interacts with the C++ language. This allows you to make use of various aspects of the language being wrapped, in this case C++, without actually needing to know or understand that language.
 
-Thus, Python can be used to make games, do data analysis, control robot and hardware, create GUIs, or even to create websites.
+#### Thus, Python can be used to make games, do data analysis, control robot and hardware, create GUIs, or even to create websites.
 
 "GUI" stands for Graphical User Interface, and is used to describe a program that incorporates graphics to make the program more interactive for the user.
 
@@ -46,7 +46,6 @@ Congratulations, you have just completed one of the python tutorials.
 To get started with rest of the course you will need python 3.x installed.
 
 You can directly download python from [python.org](https://www.python.org/)
-Or you can watch an installation video [here](https://www.youtube.com/watch?v=3lGhtIqT0Tk)
 
 Its recommended to install anaconda if you are planning to use python for machine learning because it installs all the python libraries that you will need for implementing machine leaning code. Its really irritating to install one by one library, because for machine learning you will be using tons of libraries. And anaconda also comes with preinstalled jupyter. It's great to code ML in jupyter notebooks.
 
