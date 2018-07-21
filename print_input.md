@@ -232,4 +232,4 @@ print(var_complex)
 
 ### Thank you for reading. Once you feel comfortable with them, proceed to the next tutorial.
 
->If you have any queries or suggestions to improve this tutorial please contact me [here](www.skillconnect.wixsite.com/home) or you can connect me on [linkedin](linkedin.com/shubham99bisht)
+>If you have any queries or suggestions to improve this tutorial please contact me [here](https://skillconnect.wixsite.com/home) or you can connect me on [linkedin](https://www.linkedin.com/in/shubham99bisht/)
