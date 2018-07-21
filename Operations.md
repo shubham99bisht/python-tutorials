@@ -142,8 +142,7 @@ print(stringMe, type(stringMe))
     55 <class 'str'>
 
 
-**Converting an integer to a float:
-**
+**Converting an integer to a float:**
 
 
 ```python
@@ -164,4 +163,4 @@ In this tutorial, we cover a handful of the built-in functions with Python 3. Fo
 
 ### Thank you for reading. Once you feel comfortable with them, proceed to the next tutorial.
 
->If you have any queries or suggestions to improve this tutorial please contact me [here](www.skillconnect.wixsite.com/home) or you can connect me on [linkedin](linkedin.com/shubham99bisht)
+>If you have any queries or suggestions to improve this tutorial please contact me [here](https://www.skillconnect.wixsite.com/home) or you can connect me on [linkedin](https//:www.linkedin.com/shubham99bisht)
