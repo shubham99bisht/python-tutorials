@@ -3,7 +3,6 @@
 NOTE: '__#__' is used in python for single line comments and triple quotes (''' or """) are used to mutli-line comments
 
 ## print function
-***
 
 >print( )
 
@@ -18,17 +17,17 @@ If something isn't acting right, you can use the print function to print out wha
 There are a number of ways in which a print function can be used. Syntax is always the same but little bit changes depending upon what we are trying to print.
 
 > print("hello")
-
+>
 > print("hello" + "there")
-
+>
 > print("hello","world")
-
+>
 > print(5)
-
+>
 > print(5+9)
-
+>
 > print(9/2)
-
+>
 > print(172.782)
 
 * ### printing a statement: anything inside quotes are directly printed
@@ -141,12 +140,11 @@ print("hello "*5)
 
 
 ## Variables
-***
 
 > var_name1 = "Hello"
-
+>
 > var_name2 = 5
-
+>
 > var_name3 = 1123.12312
 
 In almost every single Python program you write, you will have variables. Variables act as placeholders for data. They can aid in short hand, as well as with logic, as variables can change, hence their name.
@@ -161,7 +159,7 @@ For example, you have leared about the print function. What if you go and define
 
 Say, for example, you do:
 
-print = print("Uh oh!")
+> print = print("Uh oh!")
 
 Now you have a variable and a function named print, which can cause trouble down the road!
 
@@ -176,7 +174,7 @@ Try playing with variables in the console provided by Python installation.
 ***
 
 > input()
-
+>
 > input(" Enter data: ")
 
 * ### Taking user input
@@ -206,7 +204,7 @@ print(name)
 
 
 > The most important thing to note about print function is it takes input data and converts it into string. Even if an integer or a float is passed, it is converted into a string and then stored into the variable.
-
+>
 > For handling integers or taking input in other datatypes like float, complex etc then we have to explicitly convert the input() into that data type.
 
 
@@ -227,7 +225,7 @@ print(var_complex)
     12.45
     (2+5j)
 
-
+***
 ### That's all about strings, variables and print and input function. Play around with these code and try to make your own programs. For executing python code from terminal or cmd prompt, go to the directory where the python file is stored and type:
 
 > python filename.py
